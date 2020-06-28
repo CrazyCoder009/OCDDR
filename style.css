@@ -1,0 +1,64 @@
+body {
+  background:#debd8c;
+}
+h1 {
+  color: #523305;
+  text-align: center;
+  font-size: 50px;
+  text-shadow: 2px 2px 4px #000000;
+  padding-top: 30px;
+}
+h4{
+	color: #523305;
+	text-shadow: 1px 1px 1px #000000;
+}
+span {
+	text-align: center;
+	padding-left: 60px;
+}
+#symptom_form {
+  width: 75%;
+  margin: 50px auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  border: 5px solid #918274;
+  border-radius: 5px;
+  background: white;
+}
+#register_form {
+  width: 35%;
+  margin: 50px auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  border: 5px solid #918274;
+  border-radius: 5px;
+  background: white;
+}
+#register_form input {
+  width: 80%;
+  height: 35px;
+  margin: 5px 10%;
+  font-size: 1.1em;
+  padding: 8px;
+  border: 2px solid #918274;
+  font-size: .9em;
+}
+#sub_btn {
+  height: 35px;
+  width: 10%;
+  color: white;
+  background: #3B5998;
+  border: none;
+  border-radius: 5px;
+}
+#reg_btn {
+  height: 35px;
+  width: 80%;
+  margin: 5px 110%;
+  color: white;
+  background: #3B5998;
+  border: none;
+  border-radius: 5px;
+}
